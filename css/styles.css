@@ -1,0 +1,210 @@
+body {
+  background-color: #cbf1f5;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+ h1 {
+   font-size: 5.625rem;
+   line-height: 2;
+   margin: 0 auto;
+   font-family: 'Sacramento', cursive;
+   color: #08d9d6;
+ }
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #08d9d6;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999e;
+}
+
+.contenedor-superior {
+  position: relative;
+  padding-top: 200px;
+}
+
+.nube-superior {
+  position: absolute;
+  right: 300px;
+  top: 30px;
+}
+
+.h2-head {
+  font-weight: normal;
+}
+
+.nube-inferior {
+  position: absolute;
+  left: 350px;
+  bottom: 250px;
+}
+
+.datos {
+  display: inline-block;
+  width: 25%;
+  text-align: left;
+  margin: 50px 0;
+}
+
+.perfil {
+  margin: 50px auto;
+  width: 40%;
+}
+
+.p-perfil {
+  text-align: left;
+}
+
+.formación {
+  float: left;
+}
+
+.p-formación {
+  margin-left: 200px;
+}
+
+.docente {
+  float: left;
+}
+
+.p-docente {
+  margin-left: 200px;
+}
+
+.otros {
+  float: left;
+}
+
+.p-otros {
+  margin-left: 200px;
+}
+
+.footer-link {
+  color: #11999e;
+}
+
+.habilidades1-fila {
+  width: 50%;
+  margin: 100px auto 100px 600px;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.habilidades2-fila {
+  width: 50%;
+  margin: 100px auto 100px 600px;
+  text-align: left;
+  line-height: 2;
+}
+
+.habilidades3-fila {
+  width: 50%;
+  margin: 100px auto 200px 600px;
+  text-align: left;
+  line-height: 2;
+}
+
+.experiencia {
+  float: right;
+}
+
+.p-experiencia {
+  margin-right: 200px;
+}
+
+.habilidades4-fila {
+  width: 50%;
+  margin: 200px 600px 100px auto;
+  text-align: right;
+  line-height: 2;
+}
+
+.empresa {
+  float: right;
+}
+
+.p-empresa {
+  margin-right: 200px;
+}
+
+.habilidades5-fila {
+  width: 50%;
+  margin: 100px 600px 100px auto;
+  text-align: right;
+  line-height: 2;
+}
+
+.escuela {
+  float: right;
+}
+
+.p-escuela {
+  margin-right: 200px;
+}
+
+.habilidades6-fila {
+  width: 50%;
+  margin: 100px 600px 100px auto;
+  text-align: right;
+  line-height: 2;
+}
+
+.fortalezas {
+  float: right;
+}
+
+.p-fortalezas {
+  margin-right: 200px;
+}
+
+.habilidades7-fila {
+  width: 50%;
+  margin: 100px 600px 100px auto;
+  text-align: right;
+  /*line-height: 2;*/
+}
+
+.informática {
+  float: right;
+}
+
+.p-informática {
+  margin-right: 200px;
+}
+
+.habilidades8-fila {
+  width: 50%;
+  margin: 100px 600px 100px auto;
+  text-align: right;
+}
+
+.contenedor-inferior {
+  background-color: #71c9ce;
+  padding: 20px;
+  margin-top: 100px;
+}
+
+.contacto {
+  border-style: solid;
+  border-color: #aee6e6;
+  border-width: 5px;;
+  border-radius: 15px 50px;
+  display: inline-block;
+  text-align: left;
+  padding: 10px 50px;
+  margin: 0 auto;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #71c9ce;
+  border-width: 6px;
+  width: 10%;
+}

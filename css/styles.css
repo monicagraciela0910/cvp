@@ -52,7 +52,7 @@ h3 {
 }
 
 .perfil {
-  margin: 50px auto;
+  margin: 50px auto 150px auto;
   width: 40%;
 }
 
@@ -90,7 +90,7 @@ h3 {
 
 .habilidades1-fila {
   width: 50%;
-  margin: 100px auto 100px 600px;
+  margin: 150px auto 100px 600px;
   text-align: left;
   line-height: 2;
 
